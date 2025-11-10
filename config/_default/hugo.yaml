@@ -5,6 +5,9 @@
 
 title: ExoAIM # Website name
 baseURL: 'https://exoaim.space/' # Website URL
+caches:
+  images:
+    dir: :cacheDir/images
 
 ############################
 ## LANGUAGE
