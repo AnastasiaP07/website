@@ -20,7 +20,7 @@ sections:
           color: '#666'
       - title: Meet our team!
         #content: 'See who is working at ExoAIM Groningen'
-        align: left
+        align: center
         background:
           image:
             filename: ESA_Hubble_population.jpg

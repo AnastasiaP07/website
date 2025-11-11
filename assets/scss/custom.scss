@@ -230,5 +230,40 @@ main,
   filter: brightness(1.05) contrast(1.1) saturate(1.05);
 }
 
+@media (max-width: 768px) {
+  body, main, .content, .page-content { padding: 0 1rem !important; }
+  .container, .container-lg { max-width: 100% !important; }
+  .site-header { padding: 10px 20px !important; font-size: 0.9rem !important; }
+  .content p { max-width: 100% !important; font-size: 1rem !important; line-height: 1.6; }
+  img:hover { transform: none !important; box-shadow: none !important; }
+  body:has(.site-header:is(:not(:hover)) + *) .site-header { transform: none !important; }
+}
+
+
+/* Move carousel navigation arrows */
+.carousel-control-prev,
+.carousel-control-next {
+  top: 80% !important;             /* move down (50% = middle) */
+  transform: translateY(-50%) !important;
+}
+
+/* Bring arrows closer to the slide content */
+.carousel-control-prev { left: 2rem !important; }
+.carousel-control-next { right: 2rem !important; }
+
+/* Optional: style tweaks for clarity on dark backgrounds */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.6));
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 50%;
+  width: 3rem;
+  height: 3rem;
+}
+
+
+
+
+
 
 
