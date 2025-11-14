@@ -5,12 +5,27 @@
     <link>http://localhost:64537/author/quentin-changeat/</link>
       <atom:link href="http://localhost:64537/author/quentin-changeat/index.xml" rel="self" type="application/rss+xml" />
     <description>Quentin Changeat</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:64537/author/quentin-changeat/avatar_hu_8252a0820100e407.jpeg</url>
       <title>Quentin Changeat</title>
       <link>http://localhost:64537/author/quentin-changeat/</link>
     </image>
+    
+    <item>
+      <title>PhD positions at ExoAIM (2025).</title>
+      <link>http://localhost:64537/post/2025_11_14_position_exoaim/</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:64537/post/2025_11_14_position_exoaim/</guid>
+      <description>&lt;p&gt;A PhD position in the ExoAIM group is available at the Kapteyn Astronomical Institute, University of Groningen, NL&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+PhD Position Title: Studying exoplanet atmospheres with JWST.
+&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+Position details: The James Webb Space Telescope (JWST) is transforming our understanding of planets beyond our Solar System. With its unparalleled ability to peer into distant atmospheres, JWST has opened a new era in exoplanet science. Yet, small rocky worlds and sub-Neptunes continue to push the boundaries of what this remarkable instrument can reveal. In this project, the PhD candidate will delve into the modeling and analysis of transitional exoplanets observed with JWST. Depending on your interests and skills, your work may range from developing advanced data reduction and calibration tools to building atmospheric interpretation and retrieval models that decode the nature of these mysterious worlds. Applicants with a background in mathematics, physics (including astro.), computer science, or engineering are encouraged to apply.
+&lt;/p&gt;
+&lt;p&gt;If you are interested in this position, apply at: &lt;a href=&#34;https://www.rug.nl/research/kapteyn/vacatures/phd-positions?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Position Details&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Radiative Flux from a High-resolution Atmospheric Dynamics Simulation of a Hot Jupiter for JWST and Ariel</title>
