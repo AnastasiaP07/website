@@ -33,6 +33,21 @@ sections:
           icon_pack: fas
           text: People
           url: https://groningen-exoatmospheres.github.io/website/people/
+      - title: Try our retrieval framework!
+        #content: 'See who is working at ExoAIM Groningen'
+        align: center
+        background:
+          image:
+            filename: t3image_main.png
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+        link:
+          icon: database
+          icon_pack: fas
+          text: TauREx3 Website
+          url: https://taurex.space/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
