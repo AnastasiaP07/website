@@ -21,6 +21,7 @@ organizations:
 bio: I am exploring my interests in astronomical research, starting with exoplanets!
 
 interests:
+  - Exoplanet atmospheres
   - Old videogames
   - Travelling 
   - Planning events for the research group
