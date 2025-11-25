@@ -23,7 +23,7 @@ bio: I am exploring my interests in astronomical research, starting with exoplan
 interests:
   - Old videogames
   - Travelling 
-  - Planning group events for the research group
+  - Planning events for the research group
   
 education:
   courses:
